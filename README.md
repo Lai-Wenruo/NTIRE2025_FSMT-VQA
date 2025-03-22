@@ -28,7 +28,7 @@ python train.py -o [YOUR_OPTIONS]
 ```
 ### Such as train color score
 ```
-python train.py -o options/test/test-color.yml
+python train.py -o options/train/train-color.yml
 ```
 ### Test
 测试
